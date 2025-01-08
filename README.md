@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Ung Hoang Phi Dang a.k.a UHPD Games
+# 👋 Hi, I'm Kenji Dang a.k.a UHPD Games
 ### 👨‍💻 Full-stack Developer | 🌱 Lifelong Learner
-📫 - unghoangphidang@gmail.com | uhpdgames@gmail.com
+📫 - uhpdgames@gmail.com | kenji.vn14@gmail.com
 <p align="center">
-  <a href="https://vn.linkedin.com/in/nho-dang-690046a0/vi">
+  <a href="https://vn.linkedin.com/in/nhodang-690046a0/vi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
   <a href="#">
